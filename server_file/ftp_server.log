@@ -1,0 +1,7 @@
+2025-11-20 20:45:20,155 - INFO - Connected by ('127.0.0.1', 54438)
+2025-11-20 20:45:25,190 - INFO - User 'user2' authenticated successfully.
+2025-11-24 11:08:55,344 - INFO - user2 listed files in /Users/sa20641990/Documents/File_Transfer/server_file/ftp_root/user2
+2025-11-24 11:09:12,557 - INFO - user2 created file user.txt
+2025-11-24 11:09:25,096 - INFO - user2 updated file user.txt
+2025-11-24 11:09:34,486 - INFO - user2 read file user.txt
+2025-11-24 11:09:39,716 - INFO - user2 downloaded file user.txt
